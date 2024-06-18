@@ -5,7 +5,7 @@
 
 Modern messaging app where users can sign up and log in to chat.
 
-![Front Screen]()
+![Front Screen](https://github.com/aryadevesh/androidAppsImages/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2014%20Pro%20-%202024-06-18%20at%2016.48.56.png)
 
 ## TechStack
 
