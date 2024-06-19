@@ -5,7 +5,7 @@
 
 #Under Development
 
-![Please go to this repository current repo has the working issues :- ](https://github.com/aryadevesh/firestore_stream)
+[Please go to this repository current repo has the working issues :- ](https://github.com/aryadevesh/firestore_stream)
 
 Modern messaging app where users can sign up and log in to chat.
 
