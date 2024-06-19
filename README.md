@@ -1,7 +1,9 @@
 
 
 
-# Flash Chat ⚡️
+# Flutter Chat App
+
+![Please go to this repository this repo has](https://github.com/aryadevesh/firestore_stream)
 
 Modern messaging app where users can sign up and log in to chat.
 
